@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Sri Foods</string>
+    <string name="mobile_number">Mobile Number (10 digits)</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="enter_name">Name (Min. 3 characters)</string>
+    <string name="address">Delivery Address</string>
+    <string name="choose_password">Password (Min. 4 characters)</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="registration">Register</string>
+    <string name="home">Home</string>
+    <string name="offers">New Offers</string>
+    <string name="my_profile">My Profile</string>
+    <string name="about_us">About Me</string>
+    <string name="faqs">FAQs</string>
+    <string name="logout">Log out</string>
+    <string name="cart">Cart</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="order_history">Order History</string>
+    <string name="closeDrawer">Navigation View</string>
+    <string name="openDrawer">Navigation View Closed</string>
+    <string name="filter">Filter</string>
+    <string name="restaurant_name">Restaurant</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="profile_details">Your Profile Details are listed below:</string>
+    <string name="go_to_cart">Proceed to Cart</string>
+    <string name="confirm_order">Place Order</string>
+    <string name="action_search">Search</string>
+    <string name="search_restaurants">Search Restaurants</string>
+    <string name="favorites">Favorite Restaurants</string>
+    <string name="channel_name">Android Training</string>
+    <string name="channel_description">This notification confirms that the order is placed</string>
+    <string name="dummy_phone">+91-9988776680</string>
+    <string name="empty_cart">Your cart is currently empty</string>
+    <string name="no_favorites">You do not have any favorite restaurants</string>
+    <string name="no_orders">You haven\'t placed any orders yet</string>
+    <string name="faq_answer_one">A.1 Once you have found your preferred restaurant simply select your time and date and then so long as we have an email address and phone number your booking is instantly confirmed the minute you hit "Book Now".
+    </string>
+    <string name="faq_answer_two">A.2 Average timing for all Restaurants may be from 9AM to 10PM, Some might open or close in hour duration.
+    </string>
+    <string name="faq_answer_four">A.4 You can do this by calling your restaurant direct. If you need to cancel less than 24 hours before your dinner date you can use the cancellation link within your reminder email.
+    </string>
+    <string name="faq_answer_three">A.3 All Restaurants are committed to honour any confirmed bookings we have generated. For added peace of mind you should always reconfirm your booking using  the link included in your reminder email, and it is also a good idea to take your confirmation email with you. </string>
+    <string name="faq_answer_five">A.5 You can choose your preferred Offers and Deals that we provide and pay only for it.
+    </string>
+    <string name="faq_answer_six">A.6 Unfortunately some restaurants do not take bookings or have not yet shifted to a digital booking system. When possible we still list these restaurants onsite and we promise to tell the restaurant customers like you need them .
+    </string>
+    <string name="register_yourself">
+        <u>Don\'t have an account? Sign up now</u>
+    </string>
+    <string name="forgot_password">
+        <u>Forgot Password?</u>
+    </string>
+    <string name="email">Email Address</string>
+    <string name="enter_mobile_forgot_password">Enter your registered mobile number and email below:</string>
+    <string name="next">Next</string>
+    <string name="enter_otp">Enter the received OTP below</string>
+    <string name="otp">OTP (4 characters)</string>
+    <string name="new_password">New Password (Min. 4 characters)</string>
+    <string name="submit">Submit</string>
+    <string name="order_placed">Your order has been successfully placed!</string>
+    <string name="order_history_static_text">Your previous orders are listed below :</string>
+    <string name="dummy_date">20/12/2018</string>
+    <array name="filters">
+        <item>Cost(Low to High)</item>
+        <item>Cost(High to Low)</item>
+        <item>Rating</item>
+    </array>
+
+</resources>
