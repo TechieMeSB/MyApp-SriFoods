@@ -1,7 +1,7 @@
-# SRIFOODS  [<img  alt="icon" width="35px" src="Screenshots/app.jpg"/>](#)
+#       SRIFOODS  [<img  alt="icon" width="35px" src="Screenshots/app.jpg"/>](#)
 <hr>
 
-# Overview :scroll:
+## Overview :scroll:
 ---
 * SriFoods  :rice: :custard: is a Sample Android Food application using which users can access Foods Restaurant and its dishes Online by Browsing through variety of Foods Available.
 * To access Food restaurant online users have to register themselves with SriFoods and login using their credentials
@@ -24,39 +24,39 @@ $ git clone https://github.com/TechieMeSB/MyApp-SriFoods.git
 ```
 ### Open Android Studio and Navigate to location of MyApp-sSriFoods in Remote Environment then run the application.
 ---
-# Screenshot of Application
+# Screenshot of Application :iphone:
 <div>
-  <img src="Screenshots/op.jpg" width="174">
-  <img src="Screenshots/op1.jpg" width="174">
-  <img src="Screenshots/op2.jpg" width="174">
-  <img src="Screenshots/op3.jpg" width="174">
+  <img src="Screenshots/op.jpg" width="175">
+  <img src="Screenshots/op1.jpg" width="175">
+  <img src="Screenshots/op2.jpg" width="175">
+  <img src="Screenshots/op3.jpg" width="175">
 </div>
 <br>
 <div >
-  <img src="Screenshots/op4.jpg" width="174">
-  <img src="Screenshots/op5.jpg" width="174">
-  <img src="Screenshots/op6.jpg" width="174">
-  <img src="Screenshots/op7.jpg" width="174">
+  <img src="Screenshots/op4.jpg" width="175">
+  <img src="Screenshots/op5.jpg" width="175">
+  <img src="Screenshots/op6.jpg" width="175">
+  <img src="Screenshots/op7.jpg" width="175">
 </div>
 <br>
 <div >
-  <img src="Screenshots/op8.jpg" width="174">
-  <img src="Screenshots/op9.jpg" width="174">
-  <img src="Screenshots/op10.jpg" width="174">
-  <img src="Screenshots/op11.jpg" width="174">
+  <img src="Screenshots/op8.jpg" width="175">
+  <img src="Screenshots/op9.jpg" width="175">
+  <img src="Screenshots/op10.jpg" width="175">
+  <img src="Screenshots/op11.jpg" width="175">
 </div>
 <br>
 <div >
-  <img src="Screenshots/op12.jpg" width="174">
-  <img src="Screenshots/op13.jpg" width="174">
-  <img src="Screenshots/op14.jpg" width="174">
-  <img src="Screenshots/op16.jpg" width="174">
+  <img src="Screenshots/op12.jpg" width="175">
+  <img src="Screenshots/op13.jpg" width="175">
+  <img src="Screenshots/op14.jpg" width="175">
+  <img src="Screenshots/op16.jpg" width="175">
 </div>
 
 
 ---
-# Tools and Language 
-[<img align="left" alt="androidstudio" width="214px" src="https://camo.githubusercontent.com/610e58fd3b260e5d4e106a42588e60d9a1bee971324a8c23d9e30f4302e7f371/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4275696c742532307573696e672d416e64726f69642053747564696f2d3166343235662e737667"/>](#)
+# Tools and Language :wrench:
+[<img align="left" alt="androidstudio" width="216px" src="https://camo.githubusercontent.com/610e58fd3b260e5d4e106a42588e60d9a1bee971324a8c23d9e30f4302e7f371/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4275696c742532307573696e672d416e64726f69642053747564696f2d3166343235662e737667"/>](#)
 <br>
 [<img align="left" alt="kotlin" width="200px" src="https://camo.githubusercontent.com/2e5364d309a766030d13d1cf235db538076de20ffef30704eeed522e36f8fac7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d616465253230776974682d4b6f746c696e2d3166343235662e737667"/>](#)
 <br>
