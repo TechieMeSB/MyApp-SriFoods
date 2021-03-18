@@ -1,0 +1,125 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.internshala.foodrunner"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="18"
+8-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:5:5-79
+11-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:5:22-76
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:6:5-67
+12-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:6:22-64
+13
+14    <application
+14-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:8:5-51:19
+15        android:allowBackup="true"
+15-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:9:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.0.2] C:\Users\srish\.gradle\caches\transforms-2\files-2.1\e378717ebfa120a551884c7491a79d2e\core-1.0.2\AndroidManifest.xml:22:18-86
+17        android:icon="@mipmap/srifood_mylogo_icon"
+17-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:10:9-51
+18        android:label="@string/app_name"
+18-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:11:9-41
+19        android:networkSecurityConfig="@xml/network_security_config"
+19-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:12:9-69
+20        android:resizeableActivity="false"
+20-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:13:9-43
+21        android:roundIcon="@mipmap/srifood_mylogo_icon_round"
+21-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:14:9-62
+22        android:supportsRtl="true"
+22-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:15:9-35
+23        android:theme="@style/AppTheme" >
+23-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:16:9-40
+24        <activity
+24-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:17:9-20:61
+25            android:name="com.internshala.foodrunner.activity.CartActivity"
+25-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:18:13-50
+26            android:configChanges="orientation|screenSize|keyboardHidden"
+26-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:19:13-74
+27            android:screenOrientation="portrait" />
+27-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:20:13-49
+28        <activity
+28-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:21:9-24:52
+29            android:name="com.internshala.foodrunner.activity.ResetPasswordActivity"
+29-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:22:13-59
+30            android:configChanges="orientation|screenSize|keyboardHidden"
+30-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:23:13-74
+31            android:screenOrientation="portrait" />
+31-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:24:13-49
+32        <activity
+32-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:25:9-28:52
+33            android:name="com.internshala.foodrunner.activity.ForgotPasswordActivity"
+33-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:26:13-60
+34            android:configChanges="orientation|screenSize|keyboardHidden"
+34-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:27:13-74
+35            android:screenOrientation="portrait" />
+35-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:28:13-49
+36        <activity
+36-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:29:9-32:52
+37            android:name="com.internshala.foodrunner.activity.RegisterActivity"
+37-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:30:13-54
+38            android:configChanges="orientation|screenSize|keyboardHidden"
+38-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:31:13-74
+39            android:screenOrientation="portrait" />
+39-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:32:13-49
+40        <activity
+40-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:33:9-36:52
+41            android:name="com.internshala.foodrunner.activity.DashboardActivity"
+41-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:34:13-55
+42            android:configChanges="orientation|screenSize|keyboardHidden"
+42-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:35:13-74
+43            android:screenOrientation="portrait" />
+43-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:36:13-49
+44        <activity
+44-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:37:9-40:52
+45            android:name="com.internshala.foodrunner.activity.LoginActivity"
+45-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:38:13-51
+46            android:configChanges="orientation|screenSize|keyboardHidden"
+46-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:39:13-74
+47            android:screenOrientation="portrait" />
+47-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:40:13-49
+48        <activity
+48-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:41:9-50:20
+49            android:name="com.internshala.foodrunner.activity.SplashActivity"
+49-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:42:13-52
+50            android:configChanges="orientation|screenSize|keyboardHidden"
+50-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:43:13-74
+51            android:screenOrientation="portrait" >
+51-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:44:13-49
+52            <intent-filter>
+52-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:45:13-49:29
+53                <action android:name="android.intent.action.MAIN" />
+53-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:46:17-69
+53-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:46:25-66
+54
+55                <category android:name="android.intent.category.LAUNCHER" />
+55-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:48:17-77
+55-->C:\Users\srish\Desktop\MYCOUR\Andriod app\FoodRunner\app\src\main\AndroidManifest.xml:48:27-74
+56            </intent-filter>
+57        </activity>
+58
+59        <service
+59-->[androidx.room:room-runtime:2.2.2] C:\Users\srish\.gradle\caches\transforms-2\files-2.1\cb38de8ce316b52d1d20a30b3260869d\room-runtime-2.2.2\AndroidManifest.xml:25:9-27:40
+60            android:name="androidx.room.MultiInstanceInvalidationService"
+60-->[androidx.room:room-runtime:2.2.2] C:\Users\srish\.gradle\caches\transforms-2\files-2.1\cb38de8ce316b52d1d20a30b3260869d\room-runtime-2.2.2\AndroidManifest.xml:26:13-74
+61            android:exported="false" />
+61-->[androidx.room:room-runtime:2.2.2] C:\Users\srish\.gradle\caches\transforms-2\files-2.1\cb38de8ce316b52d1d20a30b3260869d\room-runtime-2.2.2\AndroidManifest.xml:27:13-37
+62
+63        <provider
+63-->[com.squareup.picasso:picasso:2.71828] C:\Users\srish\.gradle\caches\transforms-2\files-2.1\70d6e68927996074885fcc7042801348\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+64            android:name="com.squareup.picasso.PicassoProvider"
+64-->[com.squareup.picasso:picasso:2.71828] C:\Users\srish\.gradle\caches\transforms-2\files-2.1\70d6e68927996074885fcc7042801348\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+65            android:authorities="com.internshala.foodrunner.com.squareup.picasso"
+65-->[com.squareup.picasso:picasso:2.71828] C:\Users\srish\.gradle\caches\transforms-2\files-2.1\70d6e68927996074885fcc7042801348\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+66            android:exported="false" />
+66-->[com.squareup.picasso:picasso:2.71828] C:\Users\srish\.gradle\caches\transforms-2\files-2.1\70d6e68927996074885fcc7042801348\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+67    </application>
+68
+69</manifest>

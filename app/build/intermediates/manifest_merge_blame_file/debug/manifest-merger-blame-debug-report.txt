@@ -1,0 +1,127 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.internshala.foodrunner"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="18"
+8-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+11-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:5:5-79
+11-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:5:22-76
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:6:5-67
+12-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:6:22-64
+13
+14    <application
+14-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:8:5-51:19
+15        android:allowBackup="true"
+15-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:9:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.0.2] C:\Users\srish\.gradle\caches\transforms-2\files-2.1\e378717ebfa120a551884c7491a79d2e\core-1.0.2\AndroidManifest.xml:22:18-86
+17        android:debuggable="true"
+18        android:icon="@mipmap/srifood_mylogo_icon"
+18-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:10:9-51
+19        android:label="@string/app_name"
+19-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:11:9-41
+20        android:networkSecurityConfig="@xml/network_security_config"
+20-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:12:9-69
+21        android:resizeableActivity="false"
+21-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:13:9-43
+22        android:roundIcon="@mipmap/srifood_mylogo_icon_round"
+22-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:14:9-62
+23        android:supportsRtl="true"
+23-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:15:9-35
+24        android:testOnly="true"
+25        android:theme="@style/AppTheme" >
+25-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:16:9-40
+26        <activity
+26-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:17:9-20:61
+27            android:name="com.internshala.foodrunner.activity.CartActivity"
+27-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:18:13-50
+28            android:configChanges="orientation|screenSize|keyboardHidden"
+28-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:19:13-74
+29            android:screenOrientation="portrait" />
+29-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:20:13-49
+30        <activity
+30-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:21:9-24:52
+31            android:name="com.internshala.foodrunner.activity.ResetPasswordActivity"
+31-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:22:13-59
+32            android:configChanges="orientation|screenSize|keyboardHidden"
+32-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:23:13-74
+33            android:screenOrientation="portrait" />
+33-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:24:13-49
+34        <activity
+34-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:25:9-28:52
+35            android:name="com.internshala.foodrunner.activity.ForgotPasswordActivity"
+35-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:26:13-60
+36            android:configChanges="orientation|screenSize|keyboardHidden"
+36-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:27:13-74
+37            android:screenOrientation="portrait" />
+37-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:28:13-49
+38        <activity
+38-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:29:9-32:52
+39            android:name="com.internshala.foodrunner.activity.RegisterActivity"
+39-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:30:13-54
+40            android:configChanges="orientation|screenSize|keyboardHidden"
+40-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:31:13-74
+41            android:screenOrientation="portrait" />
+41-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:32:13-49
+42        <activity
+42-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:33:9-36:52
+43            android:name="com.internshala.foodrunner.activity.DashboardActivity"
+43-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:34:13-55
+44            android:configChanges="orientation|screenSize|keyboardHidden"
+44-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:35:13-74
+45            android:screenOrientation="portrait" />
+45-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:36:13-49
+46        <activity
+46-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:37:9-40:52
+47            android:name="com.internshala.foodrunner.activity.LoginActivity"
+47-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:38:13-51
+48            android:configChanges="orientation|screenSize|keyboardHidden"
+48-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:39:13-74
+49            android:screenOrientation="portrait" />
+49-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:40:13-49
+50        <activity
+50-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:41:9-50:20
+51            android:name="com.internshala.foodrunner.activity.SplashActivity"
+51-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:42:13-52
+52            android:configChanges="orientation|screenSize|keyboardHidden"
+52-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:43:13-74
+53            android:screenOrientation="portrait" >
+53-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:44:13-49
+54            <intent-filter>
+54-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:45:13-49:29
+55                <action android:name="android.intent.action.MAIN" />
+55-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:46:17-69
+55-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:46:25-66
+56
+57                <category android:name="android.intent.category.LAUNCHER" />
+57-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:48:17-77
+57-->C:\Users\srish\Desktop\Computer vision\SriFoods\app\src\main\AndroidManifest.xml:48:27-74
+58            </intent-filter>
+59        </activity>
+60
+61        <service
+61-->[androidx.room:room-runtime:2.2.2] C:\Users\srish\.gradle\caches\transforms-2\files-2.1\cb38de8ce316b52d1d20a30b3260869d\room-runtime-2.2.2\AndroidManifest.xml:25:9-27:40
+62            android:name="androidx.room.MultiInstanceInvalidationService"
+62-->[androidx.room:room-runtime:2.2.2] C:\Users\srish\.gradle\caches\transforms-2\files-2.1\cb38de8ce316b52d1d20a30b3260869d\room-runtime-2.2.2\AndroidManifest.xml:26:13-74
+63            android:exported="false" />
+63-->[androidx.room:room-runtime:2.2.2] C:\Users\srish\.gradle\caches\transforms-2\files-2.1\cb38de8ce316b52d1d20a30b3260869d\room-runtime-2.2.2\AndroidManifest.xml:27:13-37
+64
+65        <provider
+65-->[com.squareup.picasso:picasso:2.71828] C:\Users\srish\.gradle\caches\transforms-2\files-2.1\4422fcad5b336df785c69dc11aea4a34\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+66            android:name="com.squareup.picasso.PicassoProvider"
+66-->[com.squareup.picasso:picasso:2.71828] C:\Users\srish\.gradle\caches\transforms-2\files-2.1\4422fcad5b336df785c69dc11aea4a34\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+67            android:authorities="com.internshala.foodrunner.com.squareup.picasso"
+67-->[com.squareup.picasso:picasso:2.71828] C:\Users\srish\.gradle\caches\transforms-2\files-2.1\4422fcad5b336df785c69dc11aea4a34\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+68            android:exported="false" />
+68-->[com.squareup.picasso:picasso:2.71828] C:\Users\srish\.gradle\caches\transforms-2\files-2.1\4422fcad5b336df785c69dc11aea4a34\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+69    </application>
+70
+71</manifest>
